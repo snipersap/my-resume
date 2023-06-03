@@ -9,3 +9,6 @@ Implement the theory into practice and create my resume that is publicly availab
 1. Pure HTML code
 2. My profile picture
 3. My profile, and summary of my skills. 
+
+## Live Site
+The repo can be viewed live at [My-Resume](https://snipersap.github.io/my-resume/)
